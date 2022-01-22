@@ -6480,9 +6480,9 @@ multicast-dns@^6.0.1:
     thunky "^1.0.2"
 
 nanoid@^3.1.30:
-  version "3.1.30"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.30.tgz#63f93cc548d2a113dc5dfbc63bfa09e2b9b64362"
-  integrity sha512-zJpuPDwOv8D2zq2WRoMe1HsfZthVewpel9CAvTfc/2mBD1uUT/agc5f7GHGWXlYkFvi1mVxe4IjvP2HNrop7nQ==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
+  integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
 
 natural-compare@^1.4.0:
   version "1.4.0"
@@ -8349,10 +8349,10 @@ slash@^4.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-4.0.0.tgz#2422372176c4c6c5addb5e2ada885af984b396a7"
   integrity sha512-3dOsAHXXUkQTpOYcoAxLIorMTp4gIQr5IW3iVb7A7lFIp0VHhnynm9izx6TssdrIcVIESAlVjtnO2K8bg+Coew==
 
-snyk@^1.766.0:
-  version "1.791.0"
-  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.791.0.tgz#33ed68874f5983c6623be0e28195772e1ace815e"
-  integrity sha512-cSlLNlhCZyKoQF45dsix7Mqb1EY9rXCXEyJFO4Ls/p2TXAXTUmLMIQzL1YKpZGAPvybtvzXLPD/DR5xo0KSv9w==
+snyk@^1.783.0:
+  version "1.834.0"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.834.0.tgz#58403799358c953f44e53ed8ce733d42c62ca77e"
+  integrity sha512-0XKshpV1azNRxOKwFV+NuR/ukT0OAhsUZI/jSN6O2XIQ5lYWXC8wNgvtpJ4pmhekMjBCj4rH6mxYDo2USWEZ1g==
 
 sockjs@^0.3.21:
   version "0.3.24"
