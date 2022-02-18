@@ -6,7 +6,7 @@
     "axios": "^0.24.0",
     "cors": "^2.8.5",
     "font-awesome": "^4.7.0",
-    "prop-types": "^15.8.0",
+    "prop-types": "^15.8.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "prop-types": "^15.7.2",
