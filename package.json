@@ -15,7 +15,7 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "^5.0.1",
     "styled-components": "^4.4.1",
-    "snyk": "^1.984.0"
+    "snyk": "^1.996.0"
   },
   "scripts": {
     "start": "react-scripts start",
