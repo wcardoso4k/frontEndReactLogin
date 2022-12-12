@@ -1,5 +1,5 @@
 # Imagem de Origem
-FROM atlcor00701p.intraservice.corp:8082/node:19-alpine
+FROM node:19-alpine
 
 # Diretório de trabalho(é onde a aplicação ficará dentro do container).
 WORKDIR /app
